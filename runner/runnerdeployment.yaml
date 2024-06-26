@@ -8,6 +8,6 @@ spec:
     spec:
       repository: AlyIbrahim/github-runner-on-aks
       #organization: <YOUR ORG NAME IF WANT TO WORK AT ORG LEVEL> 
-      image: ghcr.io/AlyIbrahim/github-runner-on-aks:main
+      image: ghcr.io/alyibrahim/github-runner-on-aks:main
       imagePullSecrets:
       - name: runnersecret
